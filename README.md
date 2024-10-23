@@ -23,7 +23,7 @@ Update the Q-value for the current state-action pair (S, A) using the SARSA upda
 ### Step 5:
 Update State and Action and repeat the step 3 untill the episodes ends.
 
-## SARSA LEARNING FUNCTION
+# SARSA LEARNING FUNCTION
 
 ### DEVELOPED BY: Gumma Dileep Kumar
 ### REGISTER NO: 212222240032
@@ -84,5 +84,5 @@ def sarsa(env,
 ![RL_6 4](https://github.com/user-attachments/assets/0c674149-8451-4b87-beaf-9a95df6eb90f)
 
 
-## RESULT:
+# RESULT:
 Thus to develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method has been implemented successfully
